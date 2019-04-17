@@ -1,5 +1,5 @@
 {
-    "name": "MadDog/TrieTreeFilter",
+    "name": "MadDog/TrieTree",
     "description": "一个基于trietree的敏感词查找PHP包",
     "type": "library",
     "authors": [
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MadDog\\TrieTreeFilter\\": "src/"
+            "MadDog\\TrieTree\\": "src/"
         }
     }    
 }

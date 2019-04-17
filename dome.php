@@ -6,7 +6,7 @@
  * Time: 4:05 PM
  */
 require_once './vendor/autoload.php';
-use MadDog\TrieTreeFilter;
+use MadDog\TrieTree;
 
 $array = [
     "国徽",
@@ -122,7 +122,7 @@ $array = [
     "警徽",
 ];
 
-$trie = TrieTreeFilter\TrieTreeServer::create();
+$trie = TrieTree\TrieTreeServer::create();
 
 //生成一棵树
 foreach ($array as $v)
