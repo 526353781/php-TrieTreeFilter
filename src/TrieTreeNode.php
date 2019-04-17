@@ -68,7 +68,7 @@ class TrieTreeNode
     public function findNode($char)
     {
 
-        if (is_null($this->trieTree[$char])) {
+        if (is_null(@$this->trieTree[$char])) {
             return null;
         } else {
             return $this->trieTree[$char];
