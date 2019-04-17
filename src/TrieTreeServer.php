@@ -5,7 +5,7 @@
  * Date: 2019/4/15
  * Time: 12:05 PM
  */
-namespace Zhang\TrieTreeFilter;
+namespace MadDog\TrieTreeFilter;
 
 class TrieTreeServer {
     private $node;

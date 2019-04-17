@@ -6,7 +6,7 @@
  * Time: 4:05 PM
  */
 require_once './vendor/autoload.php';
-use Zhang\TrieTreeFilter;
+use MadDog\TrieTreeFilter;
 
 $array = [
     "国徽",
