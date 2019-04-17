@@ -1,0 +1,20 @@
+{
+    "name": "zhang/TrieTreeFilter",
+    "description": "一个基于trietree的敏感词查找PHP包",
+    "type": "library",
+    "authors": [
+        {
+            "name": "zjj",
+            "email": "57305595@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Zhang\\ls\\": "src/"
+        }
+    }    
+}
