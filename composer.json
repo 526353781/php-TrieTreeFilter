@@ -1,5 +1,5 @@
 {
-    "name": "Mad-dog/Trie-tree",
+    "name": "mad-dog/Trie-tree",
     "description": "一个基于trietree的敏感词查找PHP包",
     "type": "library",
     "authors": [
